@@ -4,9 +4,9 @@
 ### Boise Zoo Project 
 
 ### San Francisco Bike Share 
-
+  This was a final project for onr of my data science classes at Boise State University. The goal of this project is to create a model that can predict the amount of bike rides per day. I have three different datasets one with the trips, another is the stations that the bike was taken and returned to, and the final dataset is the weather for that day.
 ### PELT - Undergrad Research
-One of the biggest challenges in time series and sequence data is the ability to detect
+  One of the biggest challenges in time series and sequence data is the ability to detect
 multiple points of changes within that data set. Change point analysis is the process of
 detecting multiple points of changes throughout time series or sequence data. There are
 many different change point search methods but for this paper the focus will be on PELT
