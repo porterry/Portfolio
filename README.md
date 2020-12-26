@@ -1,3 +1,20 @@
-Data Analyst/Science Portfolio by Ryan Porter
+# Data Analyst/Science Portfolio by Ryan Porter
 
-Undergrad Research 
+## Projects
+### Boise Zoo Project 
+
+### San Francisco Bike Share 
+
+### PELT - Undergrad Research
+
+## Regression 
+
+## Classification
+
+## Clustering
+
+## Time Series
+
+## Variable Selection
+
+## Validation & Data Cleaning
