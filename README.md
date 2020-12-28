@@ -7,6 +7,7 @@ This portfolio is a compilation of code projects for data analysis or machine le
 
 ### San Francisco Bike Share 
   This was a final project for onr of my data science classes at Boise State University. The goal of this project is to create a model that can predict the amount of bike rides per day. I have three different datasets one with the trips, another is the stations that the bike was taken and returned to, and the final dataset is the weather for that day. [Link](https://github.com/porterry/Portfolio/blob/main/Notebooks/Bike_Share_MD.pdf)
+  
 ### PELT - Undergrad Research
   One of the biggest challenges in time series and sequence data is the ability to detect
 multiple points of changes within that data set. Change point analysis is the process of
@@ -19,6 +20,10 @@ paper. [Link](https://github.com/porterry/Portfolio/blob/main/Notebooks/Change_P
 ## Regression 
 
 ## Classification
+###Titanic - Machine Learning from Disaster 
+Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](https://www.kaggle.com/c/titanic). It is a binary classification problem: based on information given about Titanic passengers we predict if they survived or not. The dataset provides interesting opportunities for feature engineering. This is a pretty common introduction machine learning problem so I thought it was a good problem to solve.
+
+[RMD](https://github.com/porterry/titanic/blob/master/titanic_markdown.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/titanic_MD.pdf)
 
 ## Clustering
 
