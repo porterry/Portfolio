@@ -18,9 +18,10 @@ their application with simulated and real life data sets will be explored throug
 paper. [Link](https://github.com/porterry/Portfolio/blob/main/Notebooks/Change_Point_Porter.pdf)
 
 ## Regression 
+### Crime Rate Predication
 
 ## Classification
-###Titanic - Machine Learning from Disaster 
+### Titanic - Machine Learning from Disaster 
 Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](https://www.kaggle.com/c/titanic). It is a binary classification problem: based on information given about Titanic passengers we predict if they survived or not. The dataset provides interesting opportunities for feature engineering. This is a pretty common introduction machine learning problem so I thought it was a good problem to solve.
 
 [RMD](https://github.com/porterry/titanic/blob/master/titanic_markdown.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/titanic_MD.pdf)
