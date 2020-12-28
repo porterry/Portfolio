@@ -19,6 +19,9 @@ paper. [Link](https://github.com/porterry/Portfolio/blob/main/Notebooks/Change_P
 
 ## Regression 
 ### Crime Rate Predication
+Using the crime data from [statsci](http://www.statsci.org/data/general/uscrime.html), I used linear regression to predict the crime rate in a city with variables defined in the code. The dataset has few data points so overfitting provides another issue to deal with in the problem. 
+
+[RMD](https://github.com/porterry/Portfolio/blob/main/Notebooks/crime_rate.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/crime_rate.pdf)
 
 ## Classification
 ### Titanic - Machine Learning from Disaster 
