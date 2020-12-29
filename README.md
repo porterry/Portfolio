@@ -41,6 +41,10 @@ A classic example of clustering based on the attributes of the flower. Clusterin
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/iris_cluster.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/clustering.pdf)
 
 ## Time Series
+### Daily Temperature Atlanta
+The goal of this project is to figure out if the end of summer has gotten later in the past 20 years. I used Holt-Winters Exponential Smoothing and Cusum to determine if the end of the summer has gotten later. Time series is a bit different to analyze since in this case it was continuous so you need to figure out where in time the change was. This problem focuses on using the daily temperature data to see if the last day of summer has gradually gotten later as the years have gone by.
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/time_series_code.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/time_series.pdf)
 
 ## Variable Selection
 
