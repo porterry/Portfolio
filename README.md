@@ -29,10 +29,18 @@ Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](
 
 [RMD](https://github.com/porterry/titanic/blob/master/titanic_markdown.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/titanic_MD.pdf)
 
+### Credit Card 
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit_card_code.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit-card.pdf)
+
 ## Clustering
+### IRIS Clustering
+A classic example of clustering based on the attributes of the flower. Clustering is an approach to unsupervised machine learning which will be demonstrated in the notebook. There are three different types of iris's, so the goal is to accurately cluster the flowers into the correct iris type. K-means clustering is grouping data points in clusters that have similar attributes as the other data points in the cluster. 
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/iris_cluster.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/clustering.pdf)
 
 ## Time Series
 
 ## Variable Selection
 
-## Validation & Data Cleaning
+## Data Cleaning
