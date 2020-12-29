@@ -30,6 +30,7 @@ Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](
 [RMD](https://github.com/porterry/titanic/blob/master/titanic_markdown.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/titanic_MD.pdf)
 
 ### Credit Card 
+The dataset used in this problem is credit card applications with a binary response indicating if the applicant was accepted or rejected. Dataset is from UCI Machine Learning Repository but missing values were excluded from the set that was analyzed. The goal of the project is to find the best classifier using cross validation and using testing & training datasets. 
 
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit_card_code.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit-card.pdf)
 
