@@ -29,6 +29,11 @@ Using the crime data from [statsci](http://www.statsci.org/data/general/uscrime.
 
 [RMD](https://github.com/porterry/Portfolio/blob/main/Notebooks/crime_rate.Rmd) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/crime_rate.pdf)
 
+### Regression Tree and Random Forest
+The same crime dataset from the notebook above is used but instead of linear regression to predict crime rate, I use Random Forests and Regression Trees for the prediction. This dataset is used in a couple of my notebooks because it's an clean dataset that is easily manipulatable for all different types of modeling. 
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/random_forest.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/randfom_forest.pdf)
+
 ## Classification
 ### Titanic - Machine Learning from Disaster 
 Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](https://www.kaggle.com/c/titanic). It is a binary classification problem: based on information given about Titanic passengers we predict if they survived or not. The dataset provides interesting opportunities for feature engineering. This is a pretty common introduction machine learning problem so I thought it was a good problem to solve.
@@ -39,6 +44,11 @@ Titanic - Machine Learning from Disaster is a knowledge competition on [Kaggle](
 The dataset used in this problem is credit card applications with a binary response indicating if the applicant was accepted or rejected. Dataset is from UCI Machine Learning Repository but missing values were excluded from the set that was analyzed. The goal of the project is to find the best classifier using cross validation and using testing & training datasets. 
 
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit_card_code.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/credit-card.pdf)
+
+### Logistic Regression - Credit Risk
+Another credit card dataset but this one is composed of German applicants. The goal of this notebook is to figure out if the applicant is a good credit risk or a bad credit risk. We are computing the probability that the applicant will be a good risk or not.
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/german_credit.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/german_credit.pdf)
 
 ## Clustering
 ### IRIS Clustering
@@ -58,9 +68,19 @@ Using the same crime dataset from the statsci, I run multiple variable selection
 
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/variable%20selection.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/variable_selection.pdf)
 
-## Data Cleaning
+## Data Cleaning & Prep
+### Data Imputation
+A lot of the datasets used previously have been in pretty good condition. What I mean by that is they are not missing values, no values in the wrong spot, and no obvious outliers. This problem focuses on what to do when missing values in the dataset. You have two options when it comes to missing values: either you can ignore the missing values or impute the missing value. Four different type of imputation are compared, in addition to ignoring the missing value. 
+
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/missing_data.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/missing_data.pdf)
+
+### PCA
+Again the crime rate dataset is used with regression. However, since  the dataset is so large Principal Component Analysis will be used before running the regression model. Big dataset usually have information that isn't important to the analysis so PCA reduces the dimensionality of such dataset while reducing important information loss.
+[R](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.pdf)
 
 
+## SQL
 
+## Porttfolio Progress
 - [x] Portfolio in Progress
 - [ ] Portfolio Complete
