@@ -76,11 +76,12 @@ A lot of the datasets used previously have been in pretty good condition. What I
 
 ### PCA
 Again the crime rate dataset is used with regression. However, since  the dataset is so large Principal Component Analysis will be used before running the regression model. Big dataset usually have information that isn't important to the analysis so PCA reduces the dimensionality of such dataset while reducing important information loss.
+
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.pdf)
 
 
 ## SQL
 
-## Porttfolio Progress
+## Portfolio Progress
 - [x] Portfolio in Progress
 - [ ] Portfolio Complete
