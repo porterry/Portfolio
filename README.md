@@ -81,7 +81,3 @@ Again the crime rate dataset is used with regression. However, since  the datase
 
 
 ## SQL
-
-## Portfolio Progress
-- [x] Portfolio in Progress
-- [ ] Portfolio Complete
