@@ -80,4 +80,4 @@ Again the crime rate dataset is used with regression. However, since  the datase
 [R](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.R) [PDF](https://github.com/porterry/Portfolio/blob/main/Notebooks/Data_prep.pdf)
 
 
-## SQL
+
